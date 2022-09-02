@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/mvssguptaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvssguptaj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-v-s-s-gupta-a006b8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-v-s-s-gupta-a006b8202" height="30" width="40" /></a>
-<a href="https://instagram.com/mvssgupta_mr.unique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvssgupta_mr.unique" height="30" width="40" /></a>
+<a href="https://instagram.com/mvssgupta_mr.unique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mvssgupta_mr.unique_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rebel_mvssgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rebel_mvssgupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mvssguptajagadesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mvssguptajagadesh" height="30" width="40" /></a>
 </p>
