@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 💬 Ask me about **Data structures and algorithms , C++.**
+- 💬 Ask me about **Data structures and algorithms , C++ , React.**
 
 - 📫 How to reach me **mvssguptajagadesh@gmail.com**
 
